@@ -13,4 +13,4 @@ $skaitlis1 = 13;
 $skaitlis2 = 37;
 
 $summa = $skaitlis1 + $skaitlis2;
-echo "Skaitļa 1.skaitlis un skaitļa 2.skaitlis summa ir: + summa";
+echo "Skaitļa 1.skaitlis un skaitļa 2.skaitlis summa ir: " . $summa;
